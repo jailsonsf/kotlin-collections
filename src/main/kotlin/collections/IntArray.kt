@@ -1,3 +1,5 @@
+package collections
+
 fun main() {
     val values = IntArray(5)
     values[0] = 10

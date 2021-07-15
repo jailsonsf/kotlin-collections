@@ -1,3 +1,5 @@
+package collections
+
 fun main() {
     val prices = doubleArrayOf(10.0, 12.5, 20.9)
 

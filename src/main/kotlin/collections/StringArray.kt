@@ -1,3 +1,5 @@
+package collections
+
 fun main() {
     val names = Array(3){""}
     names[0] = "Zazá"

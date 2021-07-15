@@ -1,3 +1,5 @@
+package collections
+
 fun main() {
     val prices = DoubleArray(3)
     prices[0] = 10.0

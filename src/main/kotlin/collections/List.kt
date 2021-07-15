@@ -1,3 +1,5 @@
+package collections
+
 fun main() {
     val maria = Employee("Maria", 3000.0, "PJ")
     val joao = Employee("João", 1000.0, "CLT")

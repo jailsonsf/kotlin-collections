@@ -1,3 +1,5 @@
+package collections
+
 data class Employee(
     val name: String,
     val salary: Double,
